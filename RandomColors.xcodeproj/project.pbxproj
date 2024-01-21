@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		060F31F52B5DB29000B37A0B /* SC-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 060F31F42B5DB29000B37A0B /* SC-1.png */; };
-		060F31F72B5DB2A800B37A0B /* SC-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 060F31F62B5DB2A800B37A0B /* SC-2.png */; };
 		061670C72B3299EE00469BAA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 061670C62B3299EE00469BAA /* AppDelegate.swift */; };
 		061670C92B3299EE00469BAA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 061670C82B3299EE00469BAA /* SceneDelegate.swift */; };
 		061670CE2B3299EE00469BAA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 061670CC2B3299EE00469BAA /* Main.storyboard */; };
@@ -20,8 +18,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		060F31F42B5DB29000B37A0B /* SC-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "SC-1.png"; path = "../../../SC-1.png"; sourceTree = "<group>"; };
-		060F31F62B5DB2A800B37A0B /* SC-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "SC-2.png"; path = "../../../SC-2.png"; sourceTree = "<group>"; };
 		061670C32B3299EE00469BAA /* RandomColors.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RandomColors.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		061670C62B3299EE00469BAA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		061670C82B3299EE00469BAA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -73,8 +69,6 @@
 				061670CF2B3299EF00469BAA /* Assets.xcassets */,
 				061670D12B3299EF00469BAA /* LaunchScreen.storyboard */,
 				061670D42B3299EF00469BAA /* Info.plist */,
-				060F31F42B5DB29000B37A0B /* SC-1.png */,
-				060F31F62B5DB2A800B37A0B /* SC-2.png */,
 			);
 			path = RandomColors;
 			sourceTree = "<group>";
@@ -138,9 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				061670D32B3299EF00469BAA /* LaunchScreen.storyboard in Resources */,
-				060F31F52B5DB29000B37A0B /* SC-1.png in Resources */,
 				061670D02B3299EF00469BAA /* Assets.xcassets in Resources */,
-				060F31F72B5DB2A800B37A0B /* SC-2.png in Resources */,
 				061670CE2B3299EE00469BAA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
